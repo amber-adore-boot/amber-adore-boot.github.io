@@ -28,12 +28,12 @@ author:
   pronouns         :  "she/they"  
   bio              : "Assistant professor in physical oceanography"
   location         : "Copenhagen, Denmark"
-  employer         : "Technical University of Denmark (DTU)"
+  employer         : "DTU (Technical University of Denmark)"
   uri              : # URL
   email            : "aadbo@aqua.dtu.dk"
   # Academic websites
   academia         : # URL
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=wP8DGWAAAAAJ&hl=nl&authuser=1"
   orcid            : "https://orcid.org/0000-0002-3521-9710"
 
 
@@ -43,7 +43,7 @@ author:
 
   # Social media
   instagram        : # Username
-  linkedin         : # Username
+  linkedin         : 109941b7
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
