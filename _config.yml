@@ -11,12 +11,12 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Amber Adore Boot"
 title_separator          : "-"
-name                     : &name "Amber Adore Boot"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name : "Amber Adore Boot"
+description : "Academic portfolio"
 url                      : https://amber-adore-boot.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/aber-adore-boot.github.io"
+repository               : "academicpages/amber-adore-boot.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,20 +25,20 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Amber Adore Boot"
-  pronouns         : # example: "she/they"  
+  pronouns         :  "she/they"  
   bio              : "Assistant professor in physical oceanography"
   location         : "Copenhagen, Denmark"
   employer         : "Technical University of Denmark (DTU)"
   uri              : # URL
-  email            : "aadbo@aqua.dtu.dk
+  email            : "aadbo@aqua.dtu.dk"
   # Academic websites
   academia         : # URL
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "https://orcid.org/0000-0002-3521-9710
+  orcid            : "https://orcid.org/0000-0002-3521-9710"
 
 
   # Repositories and software development
-  github           : "academicpages"
+  github           : "amber-adore-boot"
  
 
   # Social media
