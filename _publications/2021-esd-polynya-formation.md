@@ -2,9 +2,9 @@
 title: "Multidecadal polynya formation in a conceptual (box) model"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-esd-polynya-formation
+permalink: /publication/2021-os-polynya-formation
 date: 2021
-venue: 'Earth System Dynamics'
+venue: 'Ocean Science'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
