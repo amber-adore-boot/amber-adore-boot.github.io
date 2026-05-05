@@ -5,7 +5,7 @@ category: manuscripts
 date: 2021-02-18
 permalink: /publication/2021-02-18-os-polynya-formation
 venue: 'Ocean Science'
-excerpt: "Maud Rise polynyas form due to deep convection..."
+excerpt: ""
 paperurl: 'https://amber-adore-boot.github.io/files/paper1.pdf'
 citation: 'Boot, A., van Westen, R. M., and Dijkstra, H. A.: Multidecadal polynya formation in a conceptual (box) model, Ocean Sci., 17, 335–350, https://doi.org/10.5194/os-17-335-2021, 2021.'
 ---
