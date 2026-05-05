@@ -1,5 +1,5 @@
 ---
-title: "Effect of the Atlantic Meridional Overturning Circulation on atmospheric pCO$$_2$$ variations
+title: "Effect of the Atlantic Meridional Overturning Circulation on atmospheric pCO$$_2$$ variations"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-esd-amoc-pco2-variations
