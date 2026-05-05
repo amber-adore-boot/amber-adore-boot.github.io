@@ -3,7 +3,6 @@ title: "Predicting the contribution of climate change on North Atlantic underwat
 collection: publications
 category: manuscripts
 permalink: /publication/2023-10-10-peerj-underwater-sound
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-10-10
 venue: 'PeerJ'
 paperurl: 'https://amber-adore-boot.github.io/files/paper3.pdf'
