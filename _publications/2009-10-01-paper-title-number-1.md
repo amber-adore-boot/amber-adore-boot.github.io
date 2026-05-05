@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Multidecadal polynya formation in a conceptual (box) model"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2021-esd-polynya-formation
+date: 2021
+venue: 'Earth System Dynamics'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Boot, A., van Westen, R. M., and Dijkstra, H. A.: Multidecadal polynya formation in a conceptual (box) model, Ocean Sci., 17, 335–350, https://doi.org/10.5194/os-17-335-2021, 2021.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Maud Rise polynyas (MRPs) form due to deep convection, which is caused by static instabilities of the water column. Recent studies with the Community Earth System Model (CESM) have indicated that a multidecadal varying heat accumulation in the subsurface layer occurs prior to MRP formation due to the heat transport over the Weddell Gyre. In this study, a conceptual MRP box model, forced with CESM data, is used to investigate the role of this subsurface heat accumulation in MRP formation. Cases excluding and including multidecadal varying subsurface heat and salt fluxes are considered, and multiple polynya events are only simulated in the cases where subsurface fluxes are included. The dominant frequency for MRP events in these results, approximately the frequency of the subsurface heat and salt accumulation, is still visible in cases where white noise is added to the freshwater flux. This indicates the importance and dominance of the subsurface heat accumulation in MRP formation.
