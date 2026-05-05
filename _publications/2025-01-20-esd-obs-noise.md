@@ -3,7 +3,7 @@ title: "Observation-based temperature and freshwater noise over the Atlantic Oce
 collection: publications
 category: manuscripts
 date: 2025-01-20
-permalink: /publication/esd-2025-01-20-obs-noise
+permalink: /publication/2025-01-20-esd-obs-noise
 venue: 'Earth System Dynamics'
 excerpt: ""
 paperurl: 'https://amber-adore-boot.github.io/files/paper1.pdf'
