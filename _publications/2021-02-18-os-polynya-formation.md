@@ -2,7 +2,6 @@
 title: "Multidecadal polynya formation in a conceptual (box) model"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-02-18-os-polynya-formation
 date: 2021-02-18
 venue: 'Ocean Science'
 paperurl: 'https://amber-adore-boot.github.io/files/paper1.pdf'
