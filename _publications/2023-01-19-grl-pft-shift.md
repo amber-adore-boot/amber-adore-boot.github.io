@@ -3,7 +3,7 @@ title: "Effect of Plankton Composition Shifts in the North Atlantic on Atmospher
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-19-grl-pft-shift
-excerpt: 'Marine carbon cycle processes are important for taking up atmospheric CO$$_2$$ ...'
+excerpt: ''
 date: 2023-01-19
 venue: 'Geophysical Research Letters'
 paperurl: 'https://amber-adore-boot.github.io/files/paper3.pdf'
