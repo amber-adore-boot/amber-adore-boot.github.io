@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-10-10-peerj-underwater-sound
 date: 2023-10-10
+excerpt: ''
 venue: 'PeerJ'
 paperurl: 'https://amber-adore-boot.github.io/files/paper3.pdf'
 citation: 'Possenti L, Reichart G, de Nooijer L, Lam F, de Jong C, Colin M, Binnerts B, Boot A, von der Heydt A. 2023. Predicting the contribution of climate change on North Atlantic underwater sound propagation. PeerJ 11:e16208 https://doi.org/10.7717/peerj.16208'
