@@ -2,8 +2,8 @@
 title: "Effect of the Atlantic Meridional Overturning Circulation on atmospheric pCO$$_2$$ variations"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-esd-amoc-pco2-variations
-date: 2022
+permalink: /publication/2022-07-04-esd-amoc-pco2-variations
+date: 2022-07-04
 venue: 'Earth System Dynamics'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Boot, A., von der Heydt, A. S., and Dijkstra, H. A.: Effect of the Atlantic Meridional Overturning Circulation on atmospheric pCO$$_2$$ variations, Earth Syst. Dynam., 13, 1041–1058, https://doi.org/10.5194/esd-13-1041-2022, 2022.'
