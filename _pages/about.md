@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Understanding climate-ecosystem interactions under future climate change"
+title: "Amber A. Boot"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My website is still a work in progress. I'm slowly filling it :)
+My website is still a work in progress. Not all information is correct, and I'm still adding things.
 
 Hej and welcome! My name is Amber (she/they), and I am an assistant professor in physical oceanography at DTU AQUA (Technical University of Denmark).
 
