@@ -17,7 +17,8 @@ My research focuses on how large-scale changes in the climate system affect mari
 - Ocean circulation and climate dynamics  
 - Marine ecosystems and biogeochemistry  
 - Extreme events and tipping points  
-- Earth system modelling  
+- Earth system modelling
+- AMOC impacts
 
 ## Contact
 I welcome conversations about research, collaboration, DEI, and outreach.
