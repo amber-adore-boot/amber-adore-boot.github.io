@@ -6,7 +6,7 @@ permalink: /publication/2024-12-01-joc-sea-ice-amoc
 date: 2024-12-01
 excerpt: ''
 venue: 'Journal of Climate'
-paperurl: 'https://amber-adore-boot.github.io/files/paper3.pdf'
+paperurl: 'https://journals.ametsoc.org/view/journals/clim/37/23/JCLI-D-24-0060.1.xml'
 citation: 'van Westen, R. M., V. Jacques-Dumas, A. A. Boot, and H. A. Dijkstra, 2024: The Role of Sea Ice Insulation Effects on the Probability of AMOC Transitions. J. Climate, 37, 6269–6284, https://doi.org/10.1175/JCLI-D-24-0060.1.'
 ---
 
