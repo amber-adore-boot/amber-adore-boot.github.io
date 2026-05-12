@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-My website is still a work in progress. Not all information is correct, and I'm still adding things.
-
 Hej and welcome! My name is Amber and I am a genderqueer (transfeminine) and queer person using she/they pronouns. I am an assistant professor in physical oceanography at DTU AQUA (Technical University of Denmark).
 
 My research focuses on how large-scale changes in the climate system affect marine biogeochemical cycles and ecosystems, using Earth System Models (ESMs) and Marine Ecosystem Models (MEMs).
