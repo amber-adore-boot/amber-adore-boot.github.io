@@ -6,7 +6,7 @@ permalink: /publication/2024-12-10-esd-amoc-cc-mer
 date: 2024-12-10
 excerpt: ''
 venue: 'Earth System Dynamics'
-paperurl: 'https://amber-adore-boot.github.io/files/paper3.pdf'
+paperurl: 'https://esd.copernicus.org/articles/15/1567/2024/esd-15-1567-2024.html'
 citation: 'Boot, A. A., von der Heydt, A. S., and Dijkstra, H. A.: Potential effect of the marine carbon cycle on the multiple equilibria window of the Atlantic Meridional Overturning Circulation, Earth Syst. Dynam., 15, 1567–1590, https://doi.org/10.5194/esd-15-1567-2024, 2024.'
 ---
 
