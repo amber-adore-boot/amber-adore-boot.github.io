@@ -9,7 +9,7 @@ author_profile: true
 
 ### Postdocs 
 
-### PhD Students
+### PhD candidates
 
 ### MSc students
 - Mathis Leduc (05-2026 to 08-2026)
