@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Group members
-
 ### Postdocs 
 
 ### PhD Students
