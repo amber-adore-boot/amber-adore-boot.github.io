@@ -21,12 +21,17 @@ var addressPoints = [
   ],
   [
     "Carbon cycle feedbacks and climate tipping behavior<br />IMAU colloquium; Utrecht University",
-    52.0928174,
-    5.1211367
+    52.0942343,
+    5.1211881
   ],
   [
     "Global marine ecosystem response to a strong Atlantic Ocean circulation weakening<br />Women Net Physics Day; Utrecht University",
-    52.0928174,
-    5.1211367
+    52.0942343,
+    5.1211881
+  ],
+  [
+    "The effect of freshwater biases on AMOC stability across the model hierarchy<br />EGU26 session NP1.2; Vienna",
+    48.2083537,
+    16.3725042
   ]
 ];
