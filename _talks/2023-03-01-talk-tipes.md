@@ -1,0 +1,12 @@
+---
+title: "Potential effoct of the marine carbon cycle on AMOC stability"
+collection: talks
+type: "Talk"
+permalink: /talks/2023-03-02-talk-tipes
+venue: "TiPES"
+date: 2023-03-01
+location: "Online"
+---
+
+
+Online webinar for the TiPES project presenting. 
