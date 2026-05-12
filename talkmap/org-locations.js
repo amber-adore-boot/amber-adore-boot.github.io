@@ -5,6 +5,11 @@ var addressPoints = [
     3.8595132
   ],
   [
+    "Van Klimaat tot Zeeleven: hoe de oceaan verandert<br />Leidse Winterlezing; Online",
+    43.5904719,
+    3.8595132
+  ],
+  [
     "Potential effoct of the marine carbon cycle on AMOC stability<br />TiPES; Online",
     43.5904719,
     3.8595132
