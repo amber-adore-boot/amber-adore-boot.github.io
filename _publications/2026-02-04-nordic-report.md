@@ -6,7 +6,7 @@ date: 2026-02-04
 permalink: /publication/2026-02-04-nordic-report
 venue: 'Nordic Council of Ministers'
 excerpt: ""
-paperurl: 'https://amber-adore-boot.github.io/files/paper1.pdf'
+paperurl: 'https://www.norden.org/en/publication/nordic-perspective-amoc-tipping'
 citation: 'Nummelin, A., et al. (2026). A Nordic Perspective on AMOC Tipping: Impacts and Strategies for Prevention and Governance. TemaNord 2026:504. Copenhagen: Nordisk Ministerråd'
 ---
 
