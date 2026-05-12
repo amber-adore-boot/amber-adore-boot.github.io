@@ -6,7 +6,7 @@ permalink: /publication/2022-07-04-esd-amoc-pco2-variations
 date: 2022-07-04
 excerpt: ''
 venue: 'Earth System Dynamics'
-paperurl: 'https://amber-adore-boot.github.io/files/paper3.pdf'
+paperurl: 'https://esd.copernicus.org/articles/13/1041/2022/esd-13-1041-2022.html'
 citation: 'Boot, A., von der Heydt, A. S., and Dijkstra, H. A.: Effect of the Atlantic Meridional Overturning Circulation on atmospheric pCO2 variations, Earth Syst. Dynam., 13, 1041–1058, https://doi.org/10.5194/esd-13-1041-2022, 2022.'
 ---
 
