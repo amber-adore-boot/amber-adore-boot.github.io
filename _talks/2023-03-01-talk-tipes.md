@@ -9,4 +9,4 @@ location: "Online"
 ---
 
 
-Online webinar for the TiPES project presenting. 
+Online webinar for the TiPES project. 
