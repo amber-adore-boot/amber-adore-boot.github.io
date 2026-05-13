@@ -1,5 +1,5 @@
 ---
-title: "Potential effoct of the marine carbon cycle on AMOC stability"
+title: "Potential effect of the marine carbon cycle on AMOC stability"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-03-01-talk-tipes
