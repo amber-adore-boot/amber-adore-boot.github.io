@@ -6,6 +6,9 @@ tags:
   - Transgender
   - Safety
   - Travel
+  - Transphobia
+  - Cissexism
+  - Misogyny
 ---
 
 ![](/images/Nickels.png)
