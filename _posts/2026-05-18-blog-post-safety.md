@@ -11,7 +11,7 @@ tags:
   - Misogyny
 ---
 
-![](/images/Nickels.png)
+![](/images/Nickels.png.jpg)
 
 I’ve now been living in Copenhagen for five months, and I absolutely love it. The biggest difference compared to the Netherlands? Here, I haven’t felt unsafe once. Not anywhere, not at any time. Because of that, I’m actively trying to tone down the constant vigilance I used to operate under. And honestly, it feels great. 
 
