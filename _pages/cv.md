@@ -48,9 +48,10 @@ Teaching
 Service and leadership
 ======
 * 06-2026 - present: Academic editor at PLOS Climate.
-* 2026: co-converner  EGU26 Session ITS2.5/CL0.5: AMOC changes and impacts on physical, biogeochemical, and societal systems.
+* 2026: co-convener at the EGU26 of Session ITS2.5/CL0.5: AMOC changes and impacts on physical, biogeochemical, and societal systems.
 * 2025: member of the Equity, Diversity and Inclusion (EDI) committee at the Insitute for Marine and Atmospheric Researach Utrecht (IMAU), Utrecht University.
 * 2025: organization of lunch talks and tutorials for the Centre for Complex System Studies (CCSS), Utrecht University.
+* 2025: co-convener at the Global Tipping Point Conference 2025 of the session Forecasting and Governing Tipping Points in the SPG, AMOC and the Greenland Ice Sheet .
 * 2020 - 2023: organization of biweekly group meetings of the Oceans and Cliamte group at the Institute for Marine and Atmospheric Research Utrecht (IMAU), Utrecht University.
 
 Outreach
