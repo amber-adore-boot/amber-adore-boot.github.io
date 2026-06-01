@@ -1,5 +1,5 @@
 ---
-title: "Multidecadal polynya formation in a conceptual (box) model"
+title: "Physics of AMOC multistable regime shifts due to freshwater biases in an EMIC"
 collection: publications
 category: manuscripts
 date: 2025-08-01
