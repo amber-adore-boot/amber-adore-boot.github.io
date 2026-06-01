@@ -18,6 +18,7 @@ Education
 
 Work experience
 ======
+* 2026 - present: Assistant professor at DTU Aqua
 * 2024 - 2025: Postdoctoral researcher at Utrecht University
   
 Skills
@@ -46,6 +47,7 @@ Teaching
   
 Service and leadership
 ======
+* 06-2026 - present: Academic editor at PLOS Climate.
 * 2026: co-converner  EGU26 Session ITS2.5/CL0.5: AMOC changes and impacts on physical, biogeochemical, and societal systems.
 * 2025: member of the Equity, Diversity and Inclusion (EDI) committee at the Insitute for Marine and Atmospheric Researach Utrecht (IMAU), Utrecht University.
 * 2025: organization of lunch talks and tutorials for the Centre for Complex System Studies (CCSS), Utrecht University.
