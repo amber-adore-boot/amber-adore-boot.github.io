@@ -12,4 +12,4 @@ author_profile: true
 ### PhD candidates
 
 ### MSc students
-- Mathis Leduc (05-2026 to 08-2026)
+- Mathis Leduc (ENSTA; 05-2026 to 08-2026: 'Collapse of deep convection in the CESM2-LE')
